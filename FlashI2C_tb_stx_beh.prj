@@ -1,0 +1,8 @@
+verilog isim_temp "ShiftReg.v"
+verilog isim_temp "DeviceId.v"
+verilog isim_temp "DataIO.v"
+verilog isim_temp "Controller.v"
+verilog isim_temp "Address.v"
+verilog isim_temp "FlashI2C.v"
+verilog isim_temp "FlashI2C_tb.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

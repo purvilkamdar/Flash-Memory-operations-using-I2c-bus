@@ -1,0 +1,6 @@
+verilog work "ShiftReg.v"
+verilog work "DeviceId.v"
+verilog work "DataIO.v"
+verilog work "Controller.v"
+verilog work "Address.v"
+verilog work "FlashI2C.v"

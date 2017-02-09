@@ -1,0 +1,5 @@
+set -tmpdir "D:/Xproject/FlashI2C/xst/projnav.tmp"
+set -xsthdpdir "D:/Xproject/FlashI2C/xst"
+elaborate
+-ifn DeviceId.prj
+-ifmt mixed

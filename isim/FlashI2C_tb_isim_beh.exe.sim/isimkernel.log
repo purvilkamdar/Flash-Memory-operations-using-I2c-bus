@@ -1,0 +1,29 @@
+Command line:
+   FlashI2C_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50729
+
+Wed Apr 27 11:31:54 2016
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 843.829 Meg
+
+ Total Signals          : 127
+ Total Nets             : 95
+ Total Signal Drivers   : 47
+ Total Blocks           : 8
+ Total Primitive Blocks : 6
+ Total Processes        : 57
+ Total Traceable Variables  : 63
+ Total Scalar Nets and Variables : 360
+Total Line Count : 427
+
+ Total Simulation Time: 0.0625 sec
+
+ Current Memory Usage: 686.543 Meg
+
+Wed Apr 27 11:33:34 2016
+
